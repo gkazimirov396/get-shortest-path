@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\GetShortestPath\bin\Debug\net8.0\GetShortestPath.exe
+C:\Users\User\source\repos\GetShortestPath\bin\Debug\net8.0\GetShortestPath.deps.json
+C:\Users\User\source\repos\GetShortestPath\bin\Debug\net8.0\GetShortestPath.runtimeconfig.json
+C:\Users\User\source\repos\GetShortestPath\bin\Debug\net8.0\GetShortestPath.dll
+C:\Users\User\source\repos\GetShortestPath\bin\Debug\net8.0\GetShortestPath.pdb
+C:\Users\User\source\repos\GetShortestPath\obj\Debug\net8.0\GetShortestPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GetShortestPath\obj\Debug\net8.0\GetShortestPath.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GetShortestPath\obj\Debug\net8.0\GetShortestPath.AssemblyInfo.cs
+C:\Users\User\source\repos\GetShortestPath\obj\Debug\net8.0\GetShortestPath.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GetShortestPath\obj\Debug\net8.0\GetShortestPath.dll
+C:\Users\User\source\repos\GetShortestPath\obj\Debug\net8.0\refint\GetShortestPath.dll
+C:\Users\User\source\repos\GetShortestPath\obj\Debug\net8.0\GetShortestPath.pdb
+C:\Users\User\source\repos\GetShortestPath\obj\Debug\net8.0\GetShortestPath.genruntimeconfig.cache
+C:\Users\User\source\repos\GetShortestPath\obj\Debug\net8.0\ref\GetShortestPath.dll
